@@ -1,4 +1,4 @@
-<h1 align="center">💻Café e Código☕</h1>
+<h1 align="center">Opa, aceita um café ? ☕</h1>
 
 ###
 
