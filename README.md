@@ -1,4 +1,4 @@
-<h1 align="center">Opa, aceita um café ? ☕</h1>
+<h1 align="center">Aceita um café ? ☕</h1>
 
 ###
 
