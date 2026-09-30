@@ -2,9 +2,6 @@
 
 ###
 
-<img align="left" height="435" src="https://raw.githubusercontent.com/juniordvp/juniordvp/refs/heads/main/img2.jpeg"  />
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="80" alt="java logo"  />
